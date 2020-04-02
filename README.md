@@ -10,5 +10,6 @@
 - If you are using a windows os, execute the following command:
 
 ```
-   [THIS IS SOMETHING TO INVESTIGATE]
+   1. Download Chromedriver from: http://chromedriver.chromium.org/downloads
+   2. Unzip in C:/Windows (if you copy in other path, you need to register in system variables)
 ```
