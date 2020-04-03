@@ -14,8 +14,6 @@ public class Page_GoogleHomePage extends Page_BasePage {
 		 * System.getProperty("user.dir") + "/chromedriver.exe"; }
 		 * System.out.println(":chromePath: " + chromePath);
 		 */
-		//if you are using a mac, execute the following command:
-		//brew tap homebrew/cask && brew cask install chromedriver
 		driver = new ChromeDriver();
 	}
 
